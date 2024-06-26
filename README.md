@@ -1,6 +1,7 @@
 ### Bem vindos ao meu perfil 🐤
 
 -Estou estudando na Alura
+
 -Utilizo esse espaço para me organizar e compartilhar os projetos
 
 ### Você pode entrar em contato comigo 📫
